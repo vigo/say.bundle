@@ -1,0 +1,9 @@
+{
+    "name": "say",
+    "displayName": "Say Something",
+    "description": "Speaks your input text",
+    "examples": ["say hello world", "say good morning"],
+    "categories": ["Utilities"],
+    "creator_name": "Uğur Özyılmazel",
+    "creator_url": "http://ugur.ozyilmazel.com"
+}
